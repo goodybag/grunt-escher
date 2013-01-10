@@ -1,5 +1,7 @@
 # grunt-escher
 
+Build status: This does not work
+
 Grunt task for the Escher build tool
 
 ## Documentation
