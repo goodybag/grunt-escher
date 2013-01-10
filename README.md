@@ -2,14 +2,6 @@
 
 Grunt task for the Escher build tool
 
-## Getting Started
-Install the module with: `npm install grunt-escher`
-
-```javascript
-var grunt_escher = require('grunt-escher');
-grunt_escher.awesome(); // "awesome"
-```
-
 ## Documentation
 _(Coming soon)_
 
@@ -23,5 +15,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 John Fawcett  
+Copyright (c) 2013 Goodybag 
 Licensed under the MIT license.
